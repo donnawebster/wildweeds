@@ -1,0 +1,22 @@
+1.) Step Get a template
+Free Bootstrap Website Templates
+	https://startbootstrap.com/themes
+
+
+
+2.) Edit Template
+
+
+3.) Publish to Github
+	a.) Log into github.com
+	username : donnawebster
+	password : Erie1529!
+
+	b.) Go to https://github.com/donnawebster/wildweeds
+	
+	c.) drag and drop files and wait 5 mins
+
+
+4.) See changes at https://donnawebster.github.io/wildweeds/
+
+
